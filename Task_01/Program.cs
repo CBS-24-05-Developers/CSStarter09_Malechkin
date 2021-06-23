@@ -444,7 +444,7 @@ namespace Task_01
         #endregion
     }
 
-    public enum Commands
+    public enum Commands 
     {
         create = 1,
         view = 2,
